@@ -1,2 +1,2 @@
 # Netflix-clone
-Without javascript
+Check it out https://ayush-224.github.io/Netflix-clone/
